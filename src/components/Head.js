@@ -13,7 +13,7 @@ const HeadContent = styled.div`
 
 const Head = () => (
     <HeadContent>
-        <p>Klotski Puzzle</p>
+        <p>Klotski Game</p>
     </HeadContent>
 );
 
